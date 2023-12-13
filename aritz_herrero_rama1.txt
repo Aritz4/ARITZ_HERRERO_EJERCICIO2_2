@@ -1,4 +1,5 @@
 Linea 1 documento 1 rama
 Linea 2 documento 1 rama
-Nueva linea en rama1 desde master
-Segunda linea en rama1 desde master
+Nueva linea en rama1
+Segunda linea despues de etiqueta en rama1
+
